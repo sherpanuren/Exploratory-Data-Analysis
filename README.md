@@ -47,7 +47,7 @@ To run this notebook, you'll need the following Python libraries:
 You can install these dependencies using `pip`:
 
 ```bash
-!pip install numpy pandas matplotlib seaborn scikit-learn jupyter
+!pip install numpy pandas matplotlib seaborn jupyter
 
 
 ## Acknowledgements
