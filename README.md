@@ -30,22 +30,9 @@ In this section, the following steps were taken:
 4. **Feature engineering**: New features were created or transformed as necessary to improve analysis.
 5. **Data normalization**: Scaled the data to a uniform range for better visualization and analysis.
 
-## Data Exploration and Visualizations
-
-This section explores the data using various types of visualizations:
-
-- **Univariate Analysis**: Histograms, boxplots, and density plots for individual features.
-- **Bivariate Analysis**: Scatter plots, pair plots, and correlation heatmaps to analyze relationships between variables.
-- **Categorical Data**: Count plots and bar charts to analyze categorical variables.
-
-## Key Findings
-
-- [Highlight significant trends or patterns found in the data, e.g., correlation between variables, outliers, skewed distributions, etc.]
-- [Mention any important insights that can help with future modeling or decision-making.]
-
 ## Conclusion
 
-In this EDA project, we've explored and visualized the dataset to understand the key features and relationships. The insights obtained will help in making informed decisions for further data analysis or model building.
+In this EDA project, I've explored and visualized the dataset to understand the key features and relationships. The insights obtained will help in making informed decisions for further data analysis or model building.
 
 ## Dependencies
 
