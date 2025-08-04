@@ -42,7 +42,6 @@ To run this notebook, you'll need the following Python libraries:
 - `pandas`
 - `matplotlib`
 - `seaborn`
-- `scikit-learn` (if any machine learning algorithms were applied during analysis)
 - `jupyter`
 
 You can install these dependencies using `pip`:
