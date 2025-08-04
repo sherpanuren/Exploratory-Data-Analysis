@@ -2,11 +2,11 @@
 
 This project demonstrates the process of **Exploratory Data Analysis (EDA)** on a given dataset using Python and Jupyter Notebook. The goal is to clean, visualize, and understand the patterns, trends, and relationships in the data before applying any machine learning models.
 
-## Dataset
+## Acknowledgements
 
-- **Dataset Name**: 
-- **Source**: 
-- **Description**:
+- This project was inspired by and based on a [YouTube tutorial](https://www.youtube.com/watch?v=KgCgpCIOkIs) by Rishabh Mishra. 
+- The dataset used in this project was downloaded from the same YouTube channel.
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
