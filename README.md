@@ -2,11 +2,6 @@
 
 This project demonstrates the process of **Exploratory Data Analysis (EDA)** on a given dataset using Python and Jupyter Notebook. The goal is to clean, visualize, and understand the patterns, trends, and relationships in the data before applying any machine learning models.
 
-## Acknowledgements
-
-- This project was inspired by and based on a [YouTube tutorial](https://www.youtube.com/watch?v=KgCgpCIOkIs) by Rishabh Mishra. 
-- The dataset used in this project was downloaded from the same YouTube channel.
-
 ## Table of Contents
 
 1. [Introduction](#introduction)
@@ -67,3 +62,9 @@ You can install these dependencies using `pip`:
 
 ```bash
 pip install numpy pandas matplotlib seaborn scikit-learn jupyter
+
+
+## Acknowledgements
+
+- This project was inspired by and based on a [YouTube tutorial](https://www.youtube.com/watch?v=KgCgpCIOkIs) by Rishabh Mishra. 
+- The dataset used in this project was downloaded from the same YouTube channel.
